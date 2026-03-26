@@ -1,0 +1,14 @@
+C:\unity project\c#\Dungeongames2\Dungeongames2\obj\Debug\net8.0\Dungeongames2.GeneratedMSBuildEditorConfig.editorconfig
+C:\unity project\c#\Dungeongames2\Dungeongames2\obj\Debug\net8.0\Dungeongames2.AssemblyInfoInputs.cache
+C:\unity project\c#\Dungeongames2\Dungeongames2\obj\Debug\net8.0\Dungeongames2.AssemblyInfo.cs
+C:\unity project\c#\Dungeongames2\Dungeongames2\obj\Debug\net8.0\Dungeongames2.csproj.CoreCompileInputs.cache
+C:\unity project\c#\Dungeongames2\Dungeongames2\bin\Debug\net8.0\Dungeongames2.exe
+C:\unity project\c#\Dungeongames2\Dungeongames2\bin\Debug\net8.0\Dungeongames2.deps.json
+C:\unity project\c#\Dungeongames2\Dungeongames2\bin\Debug\net8.0\Dungeongames2.runtimeconfig.json
+C:\unity project\c#\Dungeongames2\Dungeongames2\bin\Debug\net8.0\Dungeongames2.dll
+C:\unity project\c#\Dungeongames2\Dungeongames2\bin\Debug\net8.0\Dungeongames2.pdb
+C:\unity project\c#\Dungeongames2\Dungeongames2\obj\Debug\net8.0\Dungeongames2.dll
+C:\unity project\c#\Dungeongames2\Dungeongames2\obj\Debug\net8.0\refint\Dungeongames2.dll
+C:\unity project\c#\Dungeongames2\Dungeongames2\obj\Debug\net8.0\Dungeongames2.pdb
+C:\unity project\c#\Dungeongames2\Dungeongames2\obj\Debug\net8.0\Dungeongames2.genruntimeconfig.cache
+C:\unity project\c#\Dungeongames2\Dungeongames2\obj\Debug\net8.0\ref\Dungeongames2.dll

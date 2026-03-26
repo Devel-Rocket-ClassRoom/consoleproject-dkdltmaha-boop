@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dungeongames2/1.0.0": {
+        "runtime": {
+          "Dungeongames2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dungeongames2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
